@@ -4,7 +4,7 @@
 👀 I’m passionate about web development, AI, and open-source projects.<br>
 💼 I specialize in Next.js, React, Node.js, TypeScript, and JavaScript.<br>
 💬 Ask me about Next.js, React, Node.js, or any web development-related topic.<br>
-📫 How to reach me: arman@example.com
+📫 How to reach me: rmn.mokhtarii@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arman-mokhtari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
