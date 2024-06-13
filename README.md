@@ -20,6 +20,9 @@
 Here are some of my notable projects:
 - [next-wp-realstate](https://github.com/arman-mokhtari/next-wp-realstate): A real estate property website built using Next.js and WordPress.
 - [stack-overflow-next14](https://github.com/arman-mokhtari/stack-overflow-next14): A simplified version of Stack Overflow using Next.js, MongoDB, and GPT-3.
+- [podcaster](https://github.com/arman-mokhtari/podcaster): Podcaster utilizes cutting-edge technologies, including Next.js 14, Clerk, and Convex.
+- [nodejs-blog](https://github.com/arman-mokhtari/nodejs-blog): An application built with Node.js, Express, and EJS.
+- [next-portfolio](https://github.com/arman-mokhtari/next-portfolio): A modern web development stack, leveraging Next.js, Clerk, Shadcn, Tailwind CSS.
 
 ## Social Media
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arman_Workfolio)
