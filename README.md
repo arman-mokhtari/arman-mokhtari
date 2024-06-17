@@ -9,8 +9,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=arman-mokhtari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Skills
-- **Languages**: JavaScript, TypeScript, Node.js
-- **Frameworks**: Next.js, React, Express
+- **Languages**: JavaScript, TypeScript, Node.js as a JavaScript runtime
+- **Library**: React
+- **Frameworks**: Next.js, Express
 
 ## Interesting Facts
 - I enjoy learning new technologies and improving my coding skills.
