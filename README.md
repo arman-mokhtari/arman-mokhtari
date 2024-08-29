@@ -14,6 +14,8 @@
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=arman-mokhtari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br>
+
 ### 🔧 My Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
@@ -22,6 +24,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+
+<br>
 
 ## 🚀 **Featured Projects**
 Here are some of my notable projects:
@@ -41,24 +45,14 @@ Here are some of my notable projects:
 - [**next-portfolio**](https://github.com/arman-mokhtari/next-portfolio): A modern web development portfolio, leveraging Next.js, Clerk for user management, Shadcn for UI components, and Tailwind CSS for styling.
   - **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=white)
 
-
-### 🚀 Projects
-Here are some of my notable projects:
-
-- [**next-wp-realstate**](https://github.com/arman-mokhtari/next-wp-realstate): A real estate property website built using Next.js and WordPress. This project integrates advanced search features and dynamic property listings.
-  
-- [**stack-overflow-next14**](https://github.com/arman-mokhtari/stack-overflow-next14): A simplified version of Stack Overflow using Next.js, MongoDB, and GPT-3. Features include user authentication, question and answer functionality, and AI-powered suggestions.
-  
-- [**podcaster**](https://github.com/arman-mokhtari/podcaster): A podcast platform utilizing Next.js 14, Clerk for authentication, and Convex for real-time data synchronization. It supports audio streaming, user subscriptions, and more.
-  
-- [**nodejs-blog**](https://github.com/arman-mokhtari/nodejs-blog): An application built with Node.js, Express, and EJS. It offers CRUD operations for blog posts, user authentication, and a clean, responsive design.
-  
-- [**next-portfolio**](https://github.com/arman-mokhtari/next-portfolio): A modern web development portfolio, leveraging Next.js, Clerk for user management, Shadcn for UI components, and Tailwind CSS for styling.
+<br>
 
 ### 🌐 Social Media
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arman_Workfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-mokhtari/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arman_mokhtari)
+
+<br>
 
 ### 🛠️ Languages and Tools
 <p align="center">
@@ -72,6 +66,8 @@ Here are some of my notable projects:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </p>
 
+<br>
+
 ### 📈 GitHub Statistics
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=arman-mokhtari&show_icons=true&theme=vision-friendly-dark">
@@ -80,10 +76,17 @@ Here are some of my notable projects:
   <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arman-mokhtari&theme=vue">
 </p>
 
+<br>
+
 ### 🔥 Contributions
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arman-mokhtari&theme=github-dark&hide_border=true" alt="GitHub Activity Graph">
 </p>
+
+<br>
+
+### 🌟 Let's Connect!
+If you find my work interesting, feel free to follow or contribute to my projects. I'm always open to collaborations and new opportunities!
 
 ---
 
