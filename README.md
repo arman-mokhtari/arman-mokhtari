@@ -10,11 +10,13 @@
   <img alt="developer" width="300" height="auto" src="assets/dev.gif"/>
 </p>
 <br>
+<hr>
 
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=arman-mokhtari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
+<hr>
 
 ### 🔧 My Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
@@ -26,6 +28,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 
 <br>
+<hr>
 
 ## 🚀 **Featured Projects**
 Here are some of my notable projects:
@@ -46,6 +49,7 @@ Here are some of my notable projects:
   - **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=white)
 
 <br>
+<hr>
 
 ### 🌐 Social Media
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arman_Workfolio)
@@ -53,6 +57,7 @@ Here are some of my notable projects:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arman_mokhtari)
 
 <br>
+<hr>
 
 ### 🛠️ Languages and Tools
 <p align="center">
@@ -67,6 +72,7 @@ Here are some of my notable projects:
 </p>
 
 <br>
+<hr>
 
 ### 📈 GitHub Statistics
 <p align="center">
@@ -77,6 +83,7 @@ Here are some of my notable projects:
 </p>
 
 <br>
+<hr>
 
 ### 🔥 Contributions
 <p align="center">
@@ -84,6 +91,7 @@ Here are some of my notable projects:
 </p>
 
 <br>
+<hr>
 
 ### 🌟 Let's Connect!
 If you find my work interesting, feel free to follow or contribute to my projects. I'm always open to collaborations and new opportunities!
