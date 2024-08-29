@@ -9,7 +9,6 @@
 <p align="center">
   <img alt="developer" width="300" height="auto" src="assets/dev.gif"/>
 </p>
-<br>
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=arman-mokhtari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
