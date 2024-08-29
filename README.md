@@ -9,13 +9,11 @@
 <p align="center">
   <img alt="developer" width="300" height="auto" src="assets/dev.gif"/>
 </p>
-<br>
 <hr>
 
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=arman-mokhtari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>
 <hr>
 
 ### 🔧 My Skills
@@ -27,7 +25,6 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 
-<br>
 <hr>
 
 ## 🚀 **Featured Projects**
@@ -48,7 +45,6 @@ Here are some of my notable projects:
 - [**next-portfolio**](https://github.com/arman-mokhtari/next-portfolio): A modern web development portfolio, leveraging Next.js, Clerk for user management, Shadcn for UI components, and Tailwind CSS for styling.
   - **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=Tailwind%20CSS&logoColor=white)
 
-<br>
 <hr>
 
 ### 🌐 Social Media
@@ -56,7 +52,6 @@ Here are some of my notable projects:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-mokhtari/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arman_mokhtari)
 
-<br>
 <hr>
 
 ### 🛠️ Languages and Tools
@@ -71,7 +66,6 @@ Here are some of my notable projects:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </p>
 
-<br>
 <hr>
 
 ### 📈 GitHub Statistics
@@ -82,7 +76,6 @@ Here are some of my notable projects:
   <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arman-mokhtari&theme=vue">
 </p>
 
-<br>
 <hr>
 
 ### 🔥 Contributions
@@ -90,7 +83,6 @@ Here are some of my notable projects:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arman-mokhtari&theme=github-dark&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
-<br>
 <hr>
 
 ### 🌟 Let's Connect!
