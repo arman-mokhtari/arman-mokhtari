@@ -1,14 +1,15 @@
 # Hi there! I'm Arman Mokhtari 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=A+Full-stack+Web+Developer;Passionate+about+AI+and+Open+Source+projects;Always+Learning+and+Growing)](https://git.io/typing-svg)
-<p align="center">
-  <img alt="developer" width="300" height="auto" src="assets/dev.gif"/>
-</p>
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px"> About Me
 - 👀 Passionate about web development, AI, and open-source projects.
 - 💼 Specializing in Next.js, React, Node.js, TypeScript, and JavaScript.
 - 💬 Ask me about Next.js, React, Node.js, or any web development-related topic.
 - 📫 Reach me at: [rmn.mokhtarii@gmail.com](mailto:rmn.mokhtarii@gmail.com)
+
+<p align="center">
+  <img alt="developer" width="300" height="auto" src="assets/dev.gif"/>
+</p>
 
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=arman-mokhtari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
