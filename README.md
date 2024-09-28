@@ -7,7 +7,7 @@
 - 👀 Passionate about web development, AI, and open-source projects.
 - 💼 Specializing in Next.js, React, Node.js, TypeScript, and JavaScript.
 - 💬 Ask me about Next.js, React, Node.js, or any web development-related topic.
-- 📫 Reach me at: [rmn.mokhtarii@gmail.com](mailto:rmn.mokhtarii@gmail.com)
+- 📫 Reach me at: [hello@armanmokhtari.pro](mailto:hello@armanmokhtari.pro)
 <br>
 <p align="center">
   <img alt="developer" width="300" height="auto" src="assets/dev.gif"/>
