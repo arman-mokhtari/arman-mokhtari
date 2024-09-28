@@ -95,7 +95,7 @@ If you find my work interesting, feel free to follow or contribute to my project
 
 ### 📫 Contact Me
 <p align="left">
-  <a href="mailto:rmn.mokhtarii@gmail.com"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+  <a href="mailto:hello@armanmokhtari.pro"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/arman-mokhtari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
   <a href="https://twitter.com/arman_mokhtari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
 </p>
